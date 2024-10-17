@@ -36,6 +36,10 @@ python inference.py \
        --question "Please describe the video indetail."
 ```
 
+## To Do List
+- [x] Release the inference code.
+- [ ] Release the model.
+
 ## 📑 Citation
 ```
 
